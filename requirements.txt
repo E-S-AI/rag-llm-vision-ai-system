@@ -1,0 +1,16 @@
+# requirements.txt
+
+```txt
+langchain
+langchain-community
+langchain-core
+llama-cpp-python
+chromadb
+sentence-transformers
+pypdf
+unstructured[all-docs]
+transformers==4.44.2
+torch
+torchvision
+pillow
+einops
