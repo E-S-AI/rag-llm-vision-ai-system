@@ -88,7 +88,7 @@ Suitable for privacy-sensitive applications
 Project Structure
 project/
 │
-├── ai_system.ipynb
+├── ai_system.py
 ├── chroma_db/
 ├── mistral.gguf
 ├── sample_document.pdf
